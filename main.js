@@ -13,7 +13,5 @@ greetings.greetingSpanish();
 // "Hallo"
 greetings.greetingIcelandic();
 
-/* by default, the browser's time zone and date like this:
-'Thu Sep 27 2018 20:34:22 GMT-0700 (Pacific Daylight Time)'
-*/
+// current month/day/year and time in US Timezone
 timestamp.myDateTime();
